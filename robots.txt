@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-zde4ht.lawfordhomedesign.com/sitemap.xml
